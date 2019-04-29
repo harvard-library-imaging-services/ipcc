@@ -1,0 +1,60 @@
+# cat jhove_gclark_20190426.xml | grep --extended-regexp ([0-9]1,[1-9]1)
+
+application/pdf: 1549 (1527,22)
+text/html: 1 (0,1)
+text/xml: 22 (0,22)
+Total: 12642 (12517,125)
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_dark_archive/IPCC-Harvard/IPCC-Harvard/Repository/SREX/Nominations/CV: 349 (347,2) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_dark_archive/IPCC-Harvard/IPCC-Harvard/Repository/SREX/Publishing/JPEG/Ch4: 14 (11,3) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_dark_archive/IPCC-Harvard/IPCC-Harvard/Repository/SREX/Reviews/Supporting Materials/SREXFOD: 31 (30,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_dark_archive/IPCC-Harvard/IPCC-Harvard/Repository/SREX/Reviews/Supporting Materials/SREXSOD: 16 (15,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_dark_archive/IPCC-Harvard/IPCC-Harvard/Repository/WGII AR5/Nominations/nomination_cv: 1216 (1211,5) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_dark_archive/IPCC-Harvard/IPCC-Harvard/Repository/WGII AR5/Publishing/JPEG/CCBoxes: 24 (22,2) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_dark_archive/IPCC-Harvard/IPCC-Harvard/Repository/WGII AR5/Publishing/JPEG/Ch2: 5 (4,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_dark_archive/IPCC-Harvard/IPCC-Harvard/Repository/WGII AR5/Publishing/JPEG/OLSM/Ch10: 1 (0,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_dark_archive/IPCC-Harvard/IPCC-Harvard/Repository/WGII AR5/Publishing/JPEG/OLSM/Ch21: 30 (19,11) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_dark_archive/IPCC-Harvard/IPCC-Harvard/Repository/WGII AR5/Publishing/JPEG/OLSM/Ch23: 6 (2,4) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_dark_archive/IPCC-Harvard/IPCC-Harvard/Repository/WGII AR5/Publishing/JPEG/OLSM/Ch24: 16 (3,13) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_dark_archive/IPCC-Harvard/IPCC-Harvard/Repository/WGII AR5/Publishing/JPEG/OLSM/Ch30: 8 (3,5) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_dark_archive/IPCC-Harvard/IPCC-Harvard/Repository/WGII AR5/Publishing/JPEG/SPM: 18 (17,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_dark_archive/IPCC-Harvard/IPCC-Harvard/Repository/WGII AR5/Reviews/Supporting Materials/AR5SOD: 71 (66,5) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 SREX Flat/ipcc-srex-flat/srex-flat/.svn/pristine/01: 5 (4,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 SREX Flat/ipcc-srex-flat/srex-flat/.svn/pristine/25: 3 (2,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 SREX Flat/ipcc-srex-flat/srex-flat/.svn/pristine/31: 2 (1,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 SREX Flat/ipcc-srex-flat/srex-flat/.svn/pristine/41: 6 (5,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 SREX Flat/ipcc-srex-flat/srex-flat/.svn/pristine/47: 8 (7,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 SREX Flat/ipcc-srex-flat/srex-flat/.svn/pristine/62: 3 (2,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 SREX Flat/ipcc-srex-flat/srex-flat/.svn/pristine/66: 2 (1,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 SREX Flat/ipcc-srex-flat/srex-flat/.svn/pristine/7f: 4 (3,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 SREX Flat/ipcc-srex-flat/srex-flat/.svn/pristine/81: 10 (9,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 SREX Flat/ipcc-srex-flat/srex-flat/.svn/pristine/89: 5 (4,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 SREX Flat/ipcc-srex-flat/srex-flat/.svn/pristine/9c: 4 (3,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 SREX Flat/ipcc-srex-flat/srex-flat/.svn/pristine/b5: 7 (6,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 SREX Flat/ipcc-srex-flat/srex-flat/.svn/pristine/c0: 8 (7,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 SREX Flat/ipcc-srex-flat/srex-flat/.svn/pristine/d6: 5 (4,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 SREX Flat/ipcc-srex-flat/srex-flat/.svn/pristine/e9: 3 (2,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 SREX Flat/ipcc-srex-flat/srex-flat/images: 2 (1,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 SREX Flat/ipcc-srex-flat/srex-flat/images/avatars: 1 (0,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 SREX Flat/ipcc-srex-flat/srex-flat/images/avatars/default_set: 16 (15,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 SREX Flat/ipcc-srex-flat/srex-flat/images/avatars/uploads: 1 (0,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 SREX Flat/ipcc-srex-flat/srex-flat/images/captchas: 1 (0,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 SREX Flat/ipcc-srex-flat/srex-flat/images/member_photos: 1 (0,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 SREX Flat/ipcc-srex-flat/srex-flat/images/pm_attachments: 1 (0,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 SREX Flat/ipcc-srex-flat/srex-flat/images/signature_attachments: 1 (0,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 SREX Flat/ipcc-srex-flat/srex-flat/images/smileys: 41 (40,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 SREX Flat/ipcc-srex-flat/srex-flat/images/uploads: 237 (223,14) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 SREX comments drafts epubs/SREX/Drafts/FOD: 22 (21,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 SREX comments drafts epubs/SREX/Drafts/SOD: 24 (23,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 WG2 Flat/ipcc-ar5-flat-export/ar5-flat-export/images: 1 (0,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 WG2 Flat/ipcc-ar5-flat-export/ar5-flat-export/images/avatars: 1 (0,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 WG2 Flat/ipcc-ar5-flat-export/ar5-flat-export/images/avatars/default_set: 16 (15,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 WG2 Flat/ipcc-ar5-flat-export/ar5-flat-export/images/avatars/uploads: 1 (0,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 WG2 Flat/ipcc-ar5-flat-export/ar5-flat-export/images/captchas: 1 (0,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 WG2 Flat/ipcc-ar5-flat-export/ar5-flat-export/images/member_photos: 1 (0,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 WG2 Flat/ipcc-ar5-flat-export/ar5-flat-export/images/pm_attachments: 1 (0,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 WG2 Flat/ipcc-ar5-flat-export/ar5-flat-export/images/signature_attachments: 1 (0,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 WG2 Flat/ipcc-ar5-flat-export/ar5-flat-export/images/site: 122 (119,3) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 WG2 Flat/ipcc-ar5-flat-export/ar5-flat-export/images/smileys: 41 (40,1) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 WG2 Flat/ipcc-ar5-flat-export/ar5-flat-export/images/uploads: 888 (882,6) + 0,0
+/media/comstock/GCLARK32GB/IPCC_for_ESPPA_open_archive/IPCC AR5 WG2 comments drafts epubs/WGII AR5/E-Publication/Chapters: 94 (92,2) + 0,0
+Total: 12642 (12517,125) + 0,0
